@@ -34,7 +34,7 @@ Please, fill the following sections about your project.
 We based our data exploratory analysis and visualization mainly on the league, team and player point of view, and thus have concluded the following findings. The variation of data along time has also been studied on the three levels.
 
 - From the historical point of view:
- -- From the season 2008/2009 to 2015/2016, the number of matches and total participating teams remains roughly constant over time, the average is 3247 and 185 respectively.
+ - - From the season 2008/2009 to 2015/2016, the number of matches and total participating teams remains roughly constant over time, the average is 3247 and 185 respectively.
  - In leagues, the proportion of the number of teams participating in the season to the total number of teams is basically between 55-70%. And this statistic remains roughly unchanged over time. The proportion reaches its highest value in the case of Belgium Jupiler League in season 2008/2009, which is 75%. Interestingly, it drops dramatically in season 2013/2014 due to missing data, which is merely 16.7%, and returns to normal in the next two seasons.
  - 92 teams participated in all the seasons, and 51 teams participated only once, accounting for 31% and 17% of all teams respectively. Besides, the number of teams participating twice to seven times is similar, accounting for 8.6% of all teams in average.
 - From the team point of view:
