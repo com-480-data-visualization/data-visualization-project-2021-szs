@@ -41,7 +41,7 @@ We based our data exploratory analysis and visualization mainly on the league, t
   - Juventus from Italy Serie A got 102 Pts in season 2013/2014, the highest Pts in history. And the teams which obtained the top five low Pts in history are all from Belgium Jupiler League.
   - Celtic and FC Barcelona are the only two teams that enter the top 10 Pts every season. FC Barcelona is the team that won the most champions, which is four times in eight seasons. 
   - FC Barcelona, Real Madrid CF and Celtic are the top 3 high average Pts teams.
-  - The best new team in history is Manchester United. It won 90 pts when first participating in the 2008/2009 season.
+  - The best new team in history is Manchester United. It won 90 Pts when first participating in the 2008/2009 season.
   - There are 34 teams with the largest number of matches, which is 304. While the smallest number of matches is 30, obtained by 6 teams.
   - The team is more likely to win as a home team rather than an away team, with more average team goals in the match.
 - From the player point of view:
