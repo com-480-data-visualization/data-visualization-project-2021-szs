@@ -64,7 +64,7 @@ Since goals and ranking of a team is of great concern by soccer fans, such team-
   * There are 34 teams with the largest number of matches, which is 304. While the smallest number of matches is 30, obtained by 6 teams.
   * The team is more likely to win as a home team rather than an away team, with more average team goals in the match.
 
-* **From the player point of view:*
+* **From the player point of view:**
 
 Other than the two previous points of view, data of players, such as weight, height, age and even the preferred foot will also be studied in the project to fulfill the curiosity of those who are interested.
   * For all players, the average height is 181.87cm and average weight 168.38g. The average age in their participating seasons is about 25 and remains almost the same over time.
