@@ -57,7 +57,7 @@ Changes of data along different seasons can be the reflection of the rise and fa
 * **From the team point of view:**
 
 Since goals and ranking of a team is of great concern by soccer fans, such team-oriented information will also be a key focus in this project.
-  * Juventus from Italy Serie A got 102 points in season 2013/2014, the highest Pts in history. And the teams which obtained the top five low Pts in history are all from Belgium Jupiler League.
+  * Juventus from Italy Serie A got 102 points in season 2013/2014, the highest points in history. And the teams which obtained the top five low points in history are all from Belgium Jupiler League.
   * Celtic and FC Barcelona are the only two teams that enter the top 10 points every season. FC Barcelona is the team that won the most champions, which is four times in eight seasons. 
   * FC Barcelona, Real Madrid CF and Celtic are the top 3 high average points teams.
   * The best new team in history is Manchester United. It won 90 points when first participating in the 2008/2009 season.
