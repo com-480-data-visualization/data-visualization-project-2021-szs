@@ -88,7 +88,7 @@ For those who are superfans of some famous players and are concerned about how t
 ## Milestone 2 (7th May, 5pm)
 
 **10% of the final grade**
-
+[milestone2.pdf](https://github.com/com-480-data-visualization/data-visualization-project-2021-szs/blob/master/milestone2.pdf)
 
 ## Milestone 3 (4th June, 5pm)
 
