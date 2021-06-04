@@ -106,16 +106,30 @@ Our github folders are structured as follows:
 data-visualization-project-2021-szs
 │
 └───data
-│   └── csv  -contain statistics
-|   └── geojson  -map of countries
-│   └── pictures
+│   └── csv
+|   └── geojson  -json file of countries
+│   └── pictures  -decoration pictures of viz
 │   
 └───EDA.ipynb  -data exploratory
-│   └── train
-|   └── val (self-generated)
-│   └── test
-│       │   orca_synth.ndjson
-|       |   collision_test.ndjson
+│
+└───README.md
+│
+└───milestone2.pdf
+│
+└───Process_Book.pdf
+│
+└───website  -viz folder
+│   └── data  -contain csv folder and geojson files
+|   └── images  -player, team images and decoration pictures
+│   └── map.css
+│   └── eu.js
+│   └── table.js
+│   └── country.js
+│   └── year.js
+│   └── team.js
+│   └── utils.js
+│   └── main.html  -html file of viz
+
 ```
 
 ## Late policy
