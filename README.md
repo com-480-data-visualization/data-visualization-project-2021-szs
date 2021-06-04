@@ -106,17 +106,17 @@ Our github folders are structured as follows:
 data-visualization-project-2021-szs
 ├── Milestone1 
 │   ├── EDA.ipynb  -data exploratory
-│   └── Milestone1.md 
+│   └── README.md  -Milestone1 section
 ├── Milestone2 
-│   ├── Milestone2.md 
+│   ├── README.md  -Milestone2 section
 │   └── milestone2.pdf
 └── Milestone3
     ├──old_data
     │  ├── csv
     │  ├── geojson  -json file of countries
     │  └── pictures  -decoration pictures of viz
-    ├── process-book-SZS.pdf
-    ├── README.md
+    ├── process-book  -SZS.pdf
+    ├── README.md  -Milestone3 section
     ├── index.html  -html file that redirects to the visualization
     └── website  -viz folder
         ├── data  -contain csv folder and geojson files
