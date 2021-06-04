@@ -97,7 +97,7 @@ For those who are superfans of some famous players and are concerned about how t
 
 Our final web page of viz is [here](https://com-480-data-visualization.github.io/data-visualization-project-2021-szs/website/main.html).
 
-The screencast video [here](https://youtu.be/efkHqvy8f4Q) demonstrates how the visualization works.
+The video [here](https://youtu.be/efkHqvy8f4Q) demonstrates how the visualization works.
 
 The process book can be found [here](https://github.com/com-480-data-visualization/data-visualization-project-2021-szs/blob/master/process-book-SZS.pdf).
 
@@ -118,7 +118,7 @@ data-visualization-project-2021-szs
 │
 └───milestone2.pdf
 │
-└───Process_Book.pdf
+└───process-book-SZS.pdf
 │
 └───website  -viz folder
 │   └── data  -contain csv folder and geojson files
