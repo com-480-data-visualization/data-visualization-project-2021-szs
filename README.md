@@ -123,13 +123,13 @@ data-visualization-project-2021-szs
 └───website  -viz folder
 │   └── data  -contain csv folder and geojson files
 |   └── images  -player, team images and decoration pictures
-│   └── map.css
-│   └── eu.js
-│   └── table.js
-│   └── country.js
-│   └── year.js
-│   └── team.js
-│   └── utils.js
+│   └── map.css  -CSS code
+│   └── eu.js  -JS code to show the European map.
+│   └── table.js  -JS code to show the ranking table.
+│   └── country.js  -JS code to show the map of countries.
+│   └── year.js  -JS code to show the timeline.
+│   └── team.js  -JS code to show the imformation of teams.
+│   └── utils.js  -JS code of common utensils
 │   └── main.html  -html file of viz
 ```
 The main folders are described in details below:
