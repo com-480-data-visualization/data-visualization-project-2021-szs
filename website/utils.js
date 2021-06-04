@@ -1,0 +1,52 @@
+let country_league = new Map();
+let country_scale = new Map();
+let country_center_1 = new Map();
+let country_center_2 = new Map();
+
+country_league.set("Belgium","Belgium Jupiler League");
+country_league.set("England","England Premier League");
+country_league.set("France","France Ligue 1");
+country_league.set("Germany","Germany 1. Bundesliga");
+country_league.set("Italy","Italy Serie A");
+country_league.set("Netherlands","Netherlands Eredivisie");
+country_league.set("Poland","Poland Ekstraklasa");
+country_league.set("Portugal","Portugal Liga ZON Sagres");
+country_league.set("Scotland","Scotland Premier League");
+country_league.set("Spain","Spain LIGA BBVA");
+country_league.set("Switzerland","Switzerland Super League");
+
+country_scale.set("Belgium",5000);
+country_scale.set("England",2500);
+country_scale.set("France",1500);
+country_scale.set("Germany",1800);
+country_scale.set("Italy",1600);
+country_scale.set("Netherlands",4000);
+country_scale.set("Poland",2000);
+country_scale.set("Portugal",3500);
+country_scale.set("Scotland",3000);
+country_scale.set("Spain",1800);
+country_scale.set("Switzerland",4000);
+
+country_center_1.set("Belgium",7.5);
+country_center_1.set("England",3);
+country_center_1.set("France",12);
+country_center_1.set("Germany",20);
+country_center_1.set("Italy",20);
+country_center_1.set("Netherlands",9);
+country_center_1.set("Poland",27);
+country_center_1.set("Portugal",-4);
+country_center_1.set("Scotland",0);
+country_center_1.set("Spain",5);
+country_center_1.set("Switzerland",12);
+
+country_center_2.set("Belgium",50.5);
+country_center_2.set("England",53);
+country_center_2.set("France",46);
+country_center_2.set("Germany",51);
+country_center_2.set("Italy",42);
+country_center_2.set("Netherlands",52);
+country_center_2.set("Poland",52);
+country_center_2.set("Portugal",40);
+country_center_2.set("Scotland",57);
+country_center_2.set("Spain",40);
+country_center_2.set("Switzerland",47);
