@@ -104,33 +104,31 @@ The process book can be found [here](https://github.com/com-480-data-visualizati
 Our github folders are structured as follows:
 ```
 data-visualization-project-2021-szs
-│
-└───old_data
-│   └── csv
-|   └── geojson  -json file of countries
-│   └── pictures  -decoration pictures of viz
-│   
-└───EDA.ipynb  -data exploratory
-│
-└───README.md
-│
-└───index.html  -html file that redirects to the visualization
-│
-└───milestone2.pdf
-│
-└───process-book-SZS.pdf
-│
-└───website  -viz folder
-│   └── data  -contain csv folder and geojson files
-|   └── images  -player, team images and decoration pictures
-│   └── map.css  -CSS code
-│   └── eu.js  -JS code to show the European map
-│   └── table.js  -JS code to show the ranking table
-│   └── country.js  -JS code to show the map of countries
-│   └── year.js  -JS code to show the timeline
-│   └── team.js  -JS code to show the imformation of teams
-│   └── utils.js  -JS code of common utensils
-│   └── main.html  -html file of viz
+├── Milestone1 
+│   ├── EDA.ipynb  -data exploratory
+│   └── Milestone1.md 
+├── Milestone2 
+│   ├── Milestone2.md 
+│   └── milestone2.pdf
+└── Milestone3
+    ├──old_data
+    │  ├── csv
+    │  ├── geojson  -json file of countries
+    │  └── pictures  -decoration pictures of viz
+    ├── process-book-SZS.pdf
+    ├── README.md
+    ├── index.html  -html file that redirects to the visualization
+    └── website  -viz folder
+        ├── data  -contain csv folder and geojson files
+        ├── images  -player, team images and decoration pictures
+        ├── map.css  -CSS code
+        ├── eu.js  -JS code to show the European map
+        ├── table.js  -JS code to show the ranking table
+        ├── country.js  -JS code to show the map of countries
+        ├── year.js  -JS code to show the timeline
+        ├── team.js  -JS code to show the imformation of teams
+        ├── utils.js  -JS code of common utensils
+        └── main.html  -html file of viz
 ```
 The main folders are described in details below:
   * ```old_data/```: directory containing the data used to perform the data exploration and later to extract the data used in the website.
