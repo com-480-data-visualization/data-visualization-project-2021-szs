@@ -94,6 +94,7 @@ For those who are superfans of some famous players and are concerned about how t
 ## Milestone 3 (4th June, 5pm)
 
 **80% of the final grade**
+
 Our final web page of viz is here.
 
 The video here demonstrates how the visualization works.
