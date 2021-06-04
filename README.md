@@ -105,7 +105,7 @@ Our github folders are structured as follows:
 ```
 data-visualization-project-2021-szs
 │
-└───data
+└───old_data
 │   └── csv
 |   └── geojson  -json file of countries
 │   └── pictures  -decoration pictures of viz
@@ -113,6 +113,8 @@ data-visualization-project-2021-szs
 └───EDA.ipynb  -data exploratory
 │
 └───README.md
+│
+└───index.html  -html file that redirects to the visualization
 │
 └───milestone2.pdf
 │
@@ -131,9 +133,10 @@ data-visualization-project-2021-szs
 │   └── main.html  -html file of viz
 ```
 The main folders are described in details below:
-  * ```data/```: directory containing the data used to perform the data exploration and later to extract the data used in the website.
+  * ```old_data/```: directory containing the data used to perform the data exploration and later to extract the data used in the website.
   * ```EDA.ipynb```: data exploration of our dataset.
   * ```website/```: directory containing all the files used to build the visaulization. Inside, you can find several folders used to store images or statistical information, such as ```data/``` and ```images/``` used in the visualization. The html is stored in ```main.html```, the style is defined in ```map.css``` and all the main visualizations and interactions (javascript files) are divided in different files according to the different sections in the website: ```eu.js```, ```country.js```, ```table.js```, ```team.js```, ```utils.js``` and ```year.js```.
+  * ```index.html```: html file that redirects to the visualization (to ```website/map.html```).
  
 ## Late policy
 
