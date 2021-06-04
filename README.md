@@ -95,11 +95,11 @@ For those who are superfans of some famous players and are concerned about how t
 
 **80% of the final grade**
 
-Our final web page of viz is here.
+Our final web page of viz is [here](https://com-480-data-visualization.github.io/data-visualization-project-2021-szs/website/main.html).
 
-The video here demonstrates how the visualization works.
+The screencast video [here](https://youtu.be/efkHqvy8f4Q) demonstrates how the visualization works.
 
-The process book can be found here.
+The process book can be found [here](https://github.com/com-480-data-visualization/data-visualization-project-2021-szs/blob/master/process-book-SZS.pdf).
 
 Our github folders are structured as follows:
 ```
