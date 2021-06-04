@@ -101,7 +101,7 @@ The video here demonstrates how the visualization works.
 The process book can be found here.
 
 Our github folders are structured as follows:
-
+```
 data-visualization-project-2021-szs
 │
 └───data
@@ -115,7 +115,7 @@ data-visualization-project-2021-szs
 │   └── test
 │       │   orca_synth.ndjson
 |       |   collision_test.ndjson
-
+```
 
 ## Late policy
 
