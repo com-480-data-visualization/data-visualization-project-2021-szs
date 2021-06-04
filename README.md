@@ -94,6 +94,27 @@ For those who are superfans of some famous players and are concerned about how t
 ## Milestone 3 (4th June, 5pm)
 
 **80% of the final grade**
+Our final web page of viz is here.
+
+The video here demonstrates how the visualization works.
+
+The process book can be found here.
+
+Our github folders are structured as follows:
+
+data-visualization-project-2021-szs
+│
+└───data
+│   └── csv  -contain statistics
+|   └── geojson  -map of countries
+│   └── pictures
+│   
+└───EDA.ipynb  -data exploratory
+│   └── train
+|   └── val (self-generated)
+│   └── test
+│       │   orca_synth.ndjson
+|       |   collision_test.ndjson
 
 
 ## Late policy
